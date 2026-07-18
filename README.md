@@ -11,10 +11,10 @@
 
 <!-- Social / Contact Badges -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00d2ff&logo=github"/>
+  <a href="https://github.com/Pharaoh?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pharaoh?label=Followers&style=for-the-badge&color=00d2ff&logo=github"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <a href="https://github.com/Pharaoh?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-Check%20Them%20Out-3a7bd5?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -24,8 +24,8 @@
 ## 👻 Featured Project
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PhantomHunter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PhantomHunter&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/Pharaoh/PhantomHunter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pharaoh &repo=PhantomHunter&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
 </p>
 
@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pharaoh &show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pharaoh &theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pharaoh &layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pharaoh &theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pharaoh &theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Pharaoh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -95,3 +95,11 @@
 <p align="center">
   <i>"Hunt the invisible. Reveal the digital footprint."</i> 👻
 </p>
+
+Usage
+python3 phantomhunter_v22.py +1234567890 # Phone
+python3 phantomhunter_v22.py user@email.com # Email
+python3 phantomhunter_v22.py username123 # Username
+
+Disclaimer 
+For authorized security research only
