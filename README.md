@@ -96,10 +96,14 @@
   <i>"Hunt the invisible. Reveal the digital footprint."</i> 👻
 </p>
 
-Usage
+## Usage
+
 python3 phantomhunter_v22.py +1234567890 # Phone
+
 python3 phantomhunter_v22.py user@email.com # Email
+
 python3 phantomhunter_v22.py username123 # Username
 
-Disclaimer 
+## Disclaimer 
+
 For authorized security research only
